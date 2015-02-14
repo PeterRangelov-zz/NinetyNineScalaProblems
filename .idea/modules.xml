@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ninetyninescalaproblems.iml" filepath="$PROJECT_DIR$/.idea/modules/ninetyninescalaproblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ninetyninescalaproblems-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ninetyninescalaproblems-build.iml" />
     </modules>
   </component>
 </project>
